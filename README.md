@@ -182,9 +182,9 @@ The application will use text files to keep information between runs.
 
 ### Team Members
 
-1.  Member 1
-2.  Member 2
-3.  Member 3
+1.  Abdul Muizz 
+2.  Shehryar Ikram
+3.  Abrar Akbar
 
 ------------------------------------------------------------------------
 
